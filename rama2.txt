@@ -1,0 +1,2 @@
+Texto rama2.txt
+Añado linea en rama2.txt
