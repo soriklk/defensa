@@ -1,1 +1,2 @@
 Texto documento 2
+Añado linea en documento2.txt
