@@ -2,5 +2,6 @@ Texto documento 2
 Añado linea en documento2.txt
 Añado otro cambio al documento2.txt
 Otros cambios desde la rama mirama
-cambios para el ejercicio 19
-Contenido en master
+cambios para el ejercicio 19 en mirama
+Contenido en mi rama nueva
+
